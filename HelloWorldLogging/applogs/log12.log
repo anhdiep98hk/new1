@@ -1,0 +1,304 @@
+2018-01-24 09:12:04.455  INFO 5065 --- [main] c.i.Application                          : Starting Application on nguyendiep with PID 5065 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+2018-01-24 09:12:04.456  INFO 5065 --- [main] c.i.Application                          : No active profile set, falling back to default profiles: default
+2018-01-24 09:12:04.477  INFO 5065 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1ff4931d: startup date [Wed Jan 24 09:12:04 ICT 2018]; root of context hierarchy
+2018-01-24 09:12:04.708  INFO 5065 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-01-24 09:12:04.714  INFO 5065 --- [main] c.i.Application                          : Chao the gioi OK
+2018-01-24 09:12:04.715  WARN 5065 --- [main] c.i.Application                          : Chao the gioi WARN
+2018-01-24 09:12:04.715 ERROR 5065 --- [main] c.i.Application                          : Chao the gioi Error
+2018-01-24 09:12:04.715 FATAL 5065 --- [main] c.i.Application                          : Chao the gioi Fatal
+2018-01-24 09:12:04.715  INFO 5065 --- [main] c.i.Application                          : Started Application in 0.429 seconds (JVM running for 0.774)
+2018-01-24 09:12:04.716  INFO 5065 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@1ff4931d: startup date [Wed Jan 24 09:12:04 ICT 2018]; root of context hierarchy
+"2018-01-24 09:15:15 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 5169 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:15:15 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:15:15 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@74e52ef6: startup date [Wed Jan 24 09:15:15 ICT 2018]; root of context hierarchy
+""2018-01-24 09:15:15 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:15:15 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:15:15 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:15:15 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:15:15 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:15:15 [main] INFO  com.ifi.Application - Started Application in 0.618 seconds (JVM running for 0.975)
+""2018-01-24 09:15:15 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@74e52ef6: startup date [Wed Jan 24 09:15:15 ICT 2018]; root of context hierarchy
+""2018-01-24 09:15:33 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 5197 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:15:33 [main] INFO  com.ifi.TestHelloService - The following profiles are active: english
+""2018-01-24 09:15:33 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:15:33 ICT 2018]; root of context hierarchy
+""2018-01-24 09:15:33 [main] INFO  com.ifi.Application - Hello world OK
+""2018-01-24 09:15:33 [main] WARN  com.ifi.Application - Hello world WARN
+""2018-01-24 09:15:33 [main] ERROR com.ifi.Application - Hello world Error
+""2018-01-24 09:15:33 [main] FATAL com.ifi.Application - Hello world Fatal
+""2018-01-24 09:15:33 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.528 seconds (JVM running for 1.021)
+""2018-01-24 09:15:33 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:15:33 ICT 2018]; root of context hierarchy
+""2018-01-24 09:17:39 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 5290 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:17:39 [main] INFO  com.ifi.TestHelloService - The following profiles are active: vietnam
+""2018-01-24 09:17:39 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:17:39 ICT 2018]; root of context hierarchy
+""2018-01-24 09:17:39 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:17:39 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:17:39 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:17:39 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:17:39 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.556 seconds (JVM running for 1.105)
+""2018-01-24 09:17:52 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 5322 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:17:52 [main] INFO  com.ifi.TestHelloService - The following profiles are active: english
+""2018-01-24 09:17:52 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:17:52 ICT 2018]; root of context hierarchy
+""2018-01-24 09:17:52 [main] INFO  com.ifi.Application - Hello world OK
+""2018-01-24 09:17:52 [main] WARN  com.ifi.Application - Hello world WARN
+""2018-01-24 09:17:52 [main] ERROR com.ifi.Application - Hello world Error
+""2018-01-24 09:17:52 [main] FATAL com.ifi.Application - Hello world Fatal
+""2018-01-24 09:17:52 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.548 seconds (JVM running for 1.069)
+""2018-01-24 09:34:08 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 5468 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:34:08 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:34:08 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:34:08 ICT 2018]; root of context hierarchy
+""2018-01-24 09:34:08 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:34:08 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:34:08 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:34:08 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:34:08 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:34:08 [main] INFO  com.ifi.Application - Started Application in 0.44 seconds (JVM running for 0.786)
+""2018-01-24 09:34:08 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:34:08 ICT 2018]; root of context hierarchy
+""2018-01-24 09:34:08 [Thread-2] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+""2018-01-24 09:37:26 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 5528 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:37:26 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:37:26 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:37:26 ICT 2018]; root of context hierarchy
+""2018-01-24 09:37:26 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:37:26 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:37:26 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:37:26 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:37:26 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:37:26 [main] INFO  com.ifi.Application - Started Application in 0.431 seconds (JVM running for 0.778)
+""2018-01-24 09:37:26 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:37:26 ICT 2018]; root of context hierarchy
+""2018-01-24 09:37:26 [Thread-2] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+""2018-01-24 09:37:38 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 5561 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:37:38 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:37:39 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:37:39 ICT 2018]; root of context hierarchy
+""2018-01-24 09:37:39 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:37:39 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:37:39 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:37:39 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:37:39 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:37:39 [main] INFO  com.ifi.Application - Started Application in 0.439 seconds (JVM running for 0.774)
+""2018-01-24 09:37:39 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:37:39 ICT 2018]; root of context hierarchy
+""2018-01-24 09:37:39 [Thread-2] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+""2018-01-24 09:39:33 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 5615 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:39:33 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:39:33 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:39:33 ICT 2018]; root of context hierarchy
+""2018-01-24 09:39:33 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:39:33 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:39:33 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:39:33 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:39:33 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:39:33 [main] INFO  com.ifi.Application - Started Application in 0.427 seconds (JVM running for 0.768)
+""2018-01-24 09:39:33 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:39:33 ICT 2018]; root of context hierarchy
+""2018-01-24 09:39:33 [Thread-2] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+""2018-01-24 09:39:49 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 5651 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:39:49 [main] INFO  com.ifi.TestHelloService - The following profiles are active: vietnam
+""2018-01-24 09:39:49 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:39:49 ICT 2018]; root of context hierarchy
+""2018-01-24 09:39:49 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:39:49 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:39:49 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:39:49 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:39:49 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.488 seconds (JVM running for 0.962)
+""2018-01-24 09:39:49 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:39:49 ICT 2018]; root of context hierarchy
+""2018-01-24 09:40:08 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 5680 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:40:08 [main] INFO  com.ifi.TestHelloService - The following profiles are active: english
+""2018-01-24 09:40:08 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:40:08 ICT 2018]; root of context hierarchy
+""2018-01-24 09:40:08 [main] INFO  com.ifi.Application - Hello world OK
+""2018-01-24 09:40:08 [main] WARN  com.ifi.Application - Hello world WARN
+""2018-01-24 09:40:08 [main] ERROR com.ifi.Application - Hello world Error
+""2018-01-24 09:40:08 [main] FATAL com.ifi.Application - Hello world Fatal
+""2018-01-24 09:40:08 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.495 seconds (JVM running for 0.97)
+""2018-01-24 09:40:08 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:40:08 ICT 2018]; root of context hierarchy
+""2018-01-24 09:40:32 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 5724 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:40:32 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:40:32 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@74e52ef6: startup date [Wed Jan 24 09:40:32 ICT 2018]; root of context hierarchy
+""2018-01-24 09:40:32 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:40:32 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:40:32 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:40:32 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:40:32 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:40:32 [main] INFO  com.ifi.Application - Started Application in 0.509 seconds (JVM running for 0.841)
+""2018-01-24 09:40:32 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@74e52ef6: startup date [Wed Jan 24 09:40:32 ICT 2018]; root of context hierarchy
+""2018-01-24 09:40:32 [Thread-2] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+""2018-01-24 09:40:41 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 5752 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:40:41 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:40:41 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@74e52ef6: startup date [Wed Jan 24 09:40:41 ICT 2018]; root of context hierarchy
+""2018-01-24 09:40:41 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:40:41 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:40:41 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:40:41 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:40:41 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:40:41 [main] INFO  com.ifi.Application - Started Application in 0.587 seconds (JVM running for 0.976)
+""2018-01-24 09:40:41 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@74e52ef6: startup date [Wed Jan 24 09:40:41 ICT 2018]; root of context hierarchy
+""2018-01-24 09:41:35 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 5785 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:41:35 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:41:35 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:41:35 ICT 2018]; root of context hierarchy
+""2018-01-24 09:41:35 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:41:35 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:41:35 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:41:35 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:41:35 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:41:35 [main] INFO  com.ifi.Application - Started Application in 0.432 seconds (JVM running for 0.735)
+""2018-01-24 09:41:35 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:41:35 ICT 2018]; root of context hierarchy
+""2018-01-24 09:41:35 [Thread-2] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+""2018-01-24 09:42:05 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 5818 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:42:05 [main] INFO  com.ifi.TestHelloService - The following profiles are active: vietnam
+""2018-01-24 09:42:05 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:42:05 ICT 2018]; root of context hierarchy
+""2018-01-24 09:42:06 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:42:06 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:42:06 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:42:06 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:42:06 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.488 seconds (JVM running for 0.959)
+""2018-01-24 09:42:06 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:42:05 ICT 2018]; root of context hierarchy
+""2018-01-24 09:42:24 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 5849 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:42:24 [main] INFO  com.ifi.TestHelloService - The following profiles are active: vietnam
+""2018-01-24 09:42:24 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:42:24 ICT 2018]; root of context hierarchy
+""2018-01-24 09:42:24 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:42:24 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:42:24 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:42:24 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:42:24 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.503 seconds (JVM running for 0.963)
+""2018-01-24 09:42:24 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:42:24 ICT 2018]; root of context hierarchy
+""2018-01-24 09:42:39 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 5876 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:42:39 [main] INFO  com.ifi.TestHelloService - The following profiles are active: vietnam
+""2018-01-24 09:42:39 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:42:39 ICT 2018]; root of context hierarchy
+""2018-01-24 09:42:39 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:42:39 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:42:39 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:42:39 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:42:39 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.501 seconds (JVM running for 0.979)
+""2018-01-24 09:42:39 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:42:39 ICT 2018]; root of context hierarchy
+""2018-01-24 09:42:57 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 5912 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:42:57 [main] INFO  com.ifi.TestHelloService - The following profiles are active: vietnam
+""2018-01-24 09:42:57 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:42:57 ICT 2018]; root of context hierarchy
+""2018-01-24 09:42:57 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:42:57 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:42:57 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:42:57 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:42:57 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.494 seconds (JVM running for 0.96)
+""2018-01-24 09:44:17 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 5967 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:44:17 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:44:17 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:44:17 ICT 2018]; root of context hierarchy
+""2018-01-24 09:44:18 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:44:18 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:44:18 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:44:18 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:44:18 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:44:18 [main] INFO  com.ifi.Application - Started Application in 0.423 seconds (JVM running for 0.752)
+""2018-01-24 09:44:18 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:44:17 ICT 2018]; root of context hierarchy
+""2018-01-24 09:44:29 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 5998 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:44:29 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:44:29 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:44:29 ICT 2018]; root of context hierarchy
+""2018-01-24 09:44:29 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:44:29 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:44:29 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:44:29 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:44:29 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:44:29 [main] INFO  com.ifi.Application - Started Application in 0.423 seconds (JVM running for 0.754)
+""2018-01-24 09:44:29 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:44:29 ICT 2018]; root of context hierarchy
+""2018-01-24 09:44:29 [Thread-2] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+""2018-01-24 09:44:46 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 6028 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:44:46 [main] INFO  com.ifi.TestHelloService - The following profiles are active: english
+""2018-01-24 09:44:46 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:44:46 ICT 2018]; root of context hierarchy
+""2018-01-24 09:44:46 [main] INFO  com.ifi.Application - Hello world OK
+""2018-01-24 09:44:46 [main] WARN  com.ifi.Application - Hello world WARN
+""2018-01-24 09:44:46 [main] ERROR com.ifi.Application - Hello world Error
+""2018-01-24 09:44:46 [main] FATAL com.ifi.Application - Hello world Fatal
+""2018-01-24 09:44:46 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.485 seconds (JVM running for 0.97)
+""2018-01-24 09:44:46 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:44:46 ICT 2018]; root of context hierarchy
+""2018-01-24 09:44:54 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 6054 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:44:54 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:44:54 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:44:54 ICT 2018]; root of context hierarchy
+""2018-01-24 09:44:54 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:44:54 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:44:54 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:44:54 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:44:54 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:44:54 [main] INFO  com.ifi.Application - Started Application in 0.429 seconds (JVM running for 0.734)
+""2018-01-24 09:44:54 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:44:54 ICT 2018]; root of context hierarchy
+""2018-01-24 09:44:54 [Thread-2] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+""2018-01-24 09:45:07 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 6084 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:45:07 [main] INFO  com.ifi.Application - No active profile set, falling back to default profiles: default
+""2018-01-24 09:45:07 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:45:07 ICT 2018]; root of context hierarchy
+""2018-01-24 09:45:08 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:45:08 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:45:08 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:45:08 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:45:08 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:45:08 [main] INFO  com.ifi.Application - Started Application in 0.429 seconds (JVM running for 0.754)
+""2018-01-24 09:45:08 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a8c8dcf: startup date [Wed Jan 24 09:45:07 ICT 2018]; root of context hierarchy
+""2018-01-24 09:46:14 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 6127 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:46:14 [main] INFO  com.ifi.Application - The following profiles are active: english
+""2018-01-24 09:46:14 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@544fa968: startup date [Wed Jan 24 09:46:14 ICT 2018]; root of context hierarchy
+""2018-01-24 09:46:14 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:46:14 [main] INFO  com.ifi.Application - Hello world OK
+""2018-01-24 09:46:14 [main] WARN  com.ifi.Application - Hello world WARN
+""2018-01-24 09:46:14 [main] ERROR com.ifi.Application - Hello world Error
+""2018-01-24 09:46:14 [main] FATAL com.ifi.Application - Hello world Fatal
+""2018-01-24 09:46:14 [main] INFO  com.ifi.Application - Started Application in 0.436 seconds (JVM running for 0.76)
+""2018-01-24 09:46:14 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@544fa968: startup date [Wed Jan 24 09:46:14 ICT 2018]; root of context hierarchy
+""2018-01-24 09:46:30 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 6158 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:46:30 [main] INFO  com.ifi.Application - The following profiles are active: vietnam
+""2018-01-24 09:46:30 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@544fa968: startup date [Wed Jan 24 09:46:30 ICT 2018]; root of context hierarchy
+""2018-01-24 09:46:30 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:46:30 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 09:46:30 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 09:46:30 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 09:46:30 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 09:46:30 [main] INFO  com.ifi.Application - Started Application in 0.438 seconds (JVM running for 0.773)
+""2018-01-24 09:46:30 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@544fa968: startup date [Wed Jan 24 09:46:30 ICT 2018]; root of context hierarchy
+""2018-01-24 09:46:30 [Thread-2] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+""2018-01-24 09:46:59 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 6189 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:46:59 [main] INFO  com.ifi.Application - The following profiles are active: english
+""2018-01-24 09:46:59 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@544fa968: startup date [Wed Jan 24 09:46:59 ICT 2018]; root of context hierarchy
+""2018-01-24 09:46:59 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 09:46:59 [main] INFO  com.ifi.Application - Hello world OK
+""2018-01-24 09:46:59 [main] WARN  com.ifi.Application - Hello world WARN
+""2018-01-24 09:46:59 [main] ERROR com.ifi.Application - Hello world Error
+""2018-01-24 09:46:59 [main] FATAL com.ifi.Application - Hello world Fatal
+""2018-01-24 09:46:59 [main] INFO  com.ifi.Application - Started Application in 0.437 seconds (JVM running for 0.757)
+""2018-01-24 09:50:10 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 6276 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 09:50:10 [main] INFO  com.ifi.TestHelloService - The following profiles are active: english
+""2018-01-24 09:50:10 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:50:10 ICT 2018]; root of context hierarchy
+""2018-01-24 09:50:10 [main] INFO  com.ifi.Application - Hello world OK
+""2018-01-24 09:50:10 [main] WARN  com.ifi.Application - Hello world WARN
+""2018-01-24 09:50:10 [main] ERROR com.ifi.Application - Hello world Error
+""2018-01-24 09:50:10 [main] FATAL com.ifi.Application - Hello world Fatal
+""2018-01-24 09:50:10 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.538 seconds (JVM running for 1.029)
+""2018-01-24 09:50:10 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 09:50:10 ICT 2018]; root of context hierarchy
+""2018-01-24 10:03:27 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 6437 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 10:03:27 [main] INFO  com.ifi.Application - The following profiles are active: english
+""2018-01-24 10:03:27 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@544fa968: startup date [Wed Jan 24 10:03:27 ICT 2018]; root of context hierarchy
+""2018-01-24 10:03:27 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 10:03:27 [main] INFO  com.ifi.Application - Hello world OK
+""2018-01-24 10:03:27 [main] WARN  com.ifi.Application - Hello world WARN
+""2018-01-24 10:03:27 [main] ERROR com.ifi.Application - Hello world Error
+""2018-01-24 10:03:27 [main] FATAL com.ifi.Application - Hello world Fatal
+""2018-01-24 10:03:27 [main] INFO  com.ifi.Application - Started Application in 0.447 seconds (JVM running for 0.776)
+""2018-01-24 10:03:27 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@544fa968: startup date [Wed Jan 24 10:03:27 ICT 2018]; root of context hierarchy
+""2018-01-24 10:03:27 [Thread-2] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+""2018-01-24 10:03:40 [main] INFO  com.ifi.Application - Starting Application on nguyendiep with PID 6469 (/home/huynhduc/eclipse-workspace/HelloWorldLogging/bin started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 10:03:40 [main] INFO  com.ifi.Application - The following profiles are active: vietnam
+""2018-01-24 10:03:40 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@544fa968: startup date [Wed Jan 24 10:03:40 ICT 2018]; root of context hierarchy
+""2018-01-24 10:03:40 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+""2018-01-24 10:03:40 [main] INFO  com.ifi.Application - Chao the gioi OK
+""2018-01-24 10:03:40 [main] WARN  com.ifi.Application - Chao the gioi WARN
+""2018-01-24 10:03:40 [main] ERROR com.ifi.Application - Chao the gioi Error
+""2018-01-24 10:03:40 [main] FATAL com.ifi.Application - Chao the gioi Fatal
+""2018-01-24 10:03:40 [main] INFO  com.ifi.Application - Started Application in 0.435 seconds (JVM running for 0.774)
+""2018-01-24 10:03:40 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@544fa968: startup date [Wed Jan 24 10:03:40 ICT 2018]; root of context hierarchy
+""2018-01-24 10:03:40 [Thread-2] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+""2018-01-24 10:04:20 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 6501 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 10:04:20 [main] INFO  com.ifi.TestHelloService - The following profiles are active: english
+""2018-01-24 10:04:20 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 10:04:20 ICT 2018]; root of context hierarchy
+""2018-01-24 10:04:21 [main] INFO  com.ifi.Application - Hello world OK
+""2018-01-24 10:04:21 [main] WARN  com.ifi.Application - Hello world WARN
+""2018-01-24 10:04:21 [main] ERROR com.ifi.Application - Hello world Error
+""2018-01-24 10:04:21 [main] FATAL com.ifi.Application - Hello world Fatal
+""2018-01-24 10:04:21 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.459 seconds (JVM running for 0.888)
+""2018-01-24 10:04:21 [Thread-2] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 10:04:20 ICT 2018]; root of context hierarchy
+""2018-01-24 10:05:00 [main] INFO  com.ifi.TestHelloService - Starting TestHelloService on nguyendiep with PID 6531 (started by huynhduc in /home/huynhduc/eclipse-workspace/HelloWorldLogging)
+""2018-01-24 10:05:00 [main] INFO  com.ifi.TestHelloService - The following profiles are active: english
+""2018-01-24 10:05:00 [main] INFO  org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57a78e3: startup date [Wed Jan 24 10:05:00 ICT 2018]; root of context hierarchy
+""2018-01-24 10:05:00 [main] INFO  com.ifi.Application - Hello world OK
+""2018-01-24 10:05:00 [main] WARN  com.ifi.Application - Hello world WARN
+""2018-01-24 10:05:00 [main] ERROR com.ifi.Application - Hello world Error
+""2018-01-24 10:05:00 [main] FATAL com.ifi.Application - Hello world Fatal
+""2018-01-24 10:05:00 [main] INFO  com.ifi.TestHelloService - Started TestHelloService in 0.434 seconds (JVM running for 0.867)
+"
