@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<root>
+	<student title="hello">
+		<name>Tran Van A</name>
+		<age>31</age>
+		<address>Nam Dinh</address>
+		<email>tranvandiep.it@gmail.com</email>
+		<phone_number>123456789</phone_number>
+	</student>
+	<student>
+		<name>Tran Van A</name>
+		<age>31</age>
+		<address>Nam Dinh</address>
+		<email>tranvandiep.it@gmail.com</email>
+		<phone_number>123456789</phone_number>
+	</student>
+	<student>
+		<name>Tran Van A</name>
+		<age>31</age>
+		<address>Nam Dinh</address>
+		<email>tranvandiep.it@gmail.com</email>
+		<phone_number>123456789</phone_number>
+	</student>
+</root>
