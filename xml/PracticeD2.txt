@@ -1,0 +1,19 @@
+1. Given the test1.xml file.
+Write a java program to print the content of the 3rd CD.
+
+2. Given the test1.xml file.
+Write a java program to print the content of all CD produced before 1990.
+
+3. Write a java program to create the following XML text
+
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<note>
+  <to>Tove</to>
+  <from>Jani</from>
+  <heading>Reminder</heading>
+  <body>Don't forget me this weekend!</body>
+</note>
+
+4. Write a java program to add element "Energy" to each food record in file test4.xml. Energy = calories*1.5 (J).
+
+
