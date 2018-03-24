@@ -1,0 +1,3 @@
+1. Given the test1.xml file.
+Write a java program to put the content of the test1.xml file to table Test1 of mysql database test.
+

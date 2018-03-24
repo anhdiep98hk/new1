@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+ 
+<!DOCTYPE purchase-order SYSTEM "sample2.dtd">
+ 
+<!--
+   XML document may refer DTD-file that
+    is located somewhere on WEB.
+-->
+ 
+<purchase-order date="2005-10-31" number="12345">
+ 
+    <purchased-by name="My name">
+<!--
+        we comment it to lead an error: -->
+        <address>&MS; - My address</address>
+    
+    </purchased-by>
+ 
+    <order-items>
+        <!--
+            here is an example of empty element
+            i.e. containing no nested elements
+        -->
+        <item code="687" type="CD" label="Some music" />
+        <item code="129851" type="DVD" label="Some video"/>
+    </order-items>
+ 
+</purchase-order>

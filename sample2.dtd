@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--external DTD example-->
+<!ELEMENT purchase-order (purchased-by, order-items)>
+<!ATTLIST purchase-order
+    date   CDATA #REQUIRED
+    number CDATA #REQUIRED
+>
+ 
+<!ELEMENT purchased-by (address)>
+<!ATTLIST purchased-by
+    name CDATA #REQUIRED
+>
+<!ELEMENT address (#PCDATA)>
+ 
+<!-- order-items can contains at least on item -->
+<!ELEMENT order-items (item+)>
+<!ELEMENT item EMPTY>
+<!ATTLIST item
+    code  CDATA #REQUIRED
+    type  CDATA #REQUIRED
+    label CDATA #REQUIRED
+>
+
+<!ENTITY MS "Thatz life">
