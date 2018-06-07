@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+    <head>
+        <title>TODO supply a title</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+    <body>
+        <h:form>
+                <h:dataTable border="1" value="#{catProBean.listPro}" var="pro">
+                    <h:column>
+                        <f:facet name="header"><h:outputText value="Product ID"/></f:facet>
+                        <h:outputText value="#{pro.productID}"/>
+                    </h:column>
+                    <h:column>
+                        <f:facet name="header"><h:outputText value="Product Name"/></f:facet>
+                        <h:outputText value="#{pro.productName}"/>
+                    </h:column>             
+                    <h:column>
+                        <f:facet name="header"><h:outputText value="Price"/></f:facet>
+                        <h:outputText value="#{pro.price}"/>
+                    </h:column> 
+                    <h:column>
+                        <f:facet name="header"><h:outputText value="Category Name"/></f:facet>
+                        <h:outputText value="#{pro.categoryID.catetoryName}"/>
+                    </h:column>  
+                    <h:column>
+                        <f:facet name="header"><h:outputText value="Description"/></f:facet>
+                        <h:outputText value="#{pro.description}"/>
+                    </h:column>                    
+                </h:dataTable>
+                <h:commandLink action="index">Back</h:commandLink>
+            </h:form>
+    </body>
+</html>
